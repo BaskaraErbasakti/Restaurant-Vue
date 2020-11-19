@@ -1,5 +1,5 @@
 # Restaurant-Vue
-
+FRONTEND
 ## Project setup
 ```
 yarn install
