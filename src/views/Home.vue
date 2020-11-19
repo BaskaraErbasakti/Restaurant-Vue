@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="sticky-top bg-white">
-      <div class="d-flex bg-info">
+      <div class="d-flex">
           <div class="d-flex col-8 justify-content-between align-items-center p-2">
               <img class="menu" src="../assets/menu.png" alt="menu">
               <h1 class="btn fontSize bold" @click="home">Food Items</h1>
